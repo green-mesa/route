@@ -1,8 +1,8 @@
 {
-  "name": "route-component",
+  "name": "green-mesa-route",
   "repo": "component/route",
-  "description": "Route implementation for client-side routers",
-  "version": "0.2.0",
+  "description": "Route implementation for client-side routers, forked from github/component/route",
+  "version": "0.2.2",
   "keywords": [
     "route",
     "router",
@@ -21,6 +21,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/component/route.git"
+    "url": "https://github.com/green-mesa/route.git"
   }
 }

@@ -1,8 +1,8 @@
 {
   "name": "route",
-  "repo": "component/route",
-  "description": "Route implementation for client-side routers",
-  "version": "0.2.0",
+  "repo": "green-mesa/route",
+  "description": "Route implementation for client-side routers, forked from github/component/route",
+  "version": "0.2.2",
   "keywords": ["route", "router", "routing"],
   "dependencies": {
     "component/path-to-regexp": "*"
